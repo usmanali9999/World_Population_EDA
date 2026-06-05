@@ -36,7 +36,7 @@ pip install -r requirements.txt
 1. Clone this repository to your machine:
    ```bash
    git clone https://github.com/usmanali9999/World_Population_EDA.git
-   cd World-Population-EDA
+   cd World_Population_EDA
    ```
 
 2. Start the Jupyter workspace environment:
